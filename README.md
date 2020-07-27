@@ -6,4 +6,4 @@
 - 📫 How to reach me: contact@foxandducksoftware.co.uk
 
 ## Sponsorship
-All sponsorships should be sent to https://github.com/FoxAndDuckSoftware
+Sponsor me through my business here: https://github.com/sponsors/FoxAndDuckSoftware
