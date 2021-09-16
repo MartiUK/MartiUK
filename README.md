@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m an SRE for @SKOOTUK
+- 🔭 I’m available for new roles
 - 🌱 I’m currently learning Rust and low level Kubernetes
 - 💬 Ask me about: Cloud Native Services, development, architecture, and CI/CD deployments.
 - 📫 How to reach me: contact@foxandducksoftware.co.uk
