@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I'm currently contracting, working DevOps/SRE Roles.
-- 🌱 I’m currently learning Rust and low level Kubernetes
-- 💬 Ask me about: Cloud Native Services, development, architecture, and CI/CD deployments.
-- 📫 How to reach me: contact@foxandduck.io
+- 🔭 I'm currently working Lead/Senior DevOps/SRE Roles.
+- 🌱 I’m currently learning low level Rust
+- 💬 Ask me about: Cloud Native Services, Kubernetes, development, architecture, and CI/CD deployments.
 
 ## Sponsorship
-Support my work on Ko-Fi: https://ko-fi.com/martiuk
-
-Sponsor me through my business here: https://github.com/sponsors/FoxAndDuckSoftware
+Support my work on:
+- GitHub: https://github.com/sponsors/MartiUK
+- Ko-Fi: https://ko-fi.com/martiuk
